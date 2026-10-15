@@ -14,6 +14,26 @@
 
 ---
 
+## Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Install](#install)
+  - [Homebrew (recommended)](#homebrew-recommended)
+  - [Manual download](#manual-download)
+  - ["Floating Lyrics can't be opened"](#floating-lyrics-cant-be-opened--apple-could-not-verify)
+- [Setup](#setup)
+  - [Apple Music and Spotify](#apple-music-and-spotify)
+  - [YouTube Music (Pear Desktop)](#youtube-music-pear-desktop)
+- [Usage](#usage)
+  - [Default shortcuts](#default-shortcuts)
+  - [Open with your music player](#open-with-your-music-player)
+- [Build from source](#build-from-source)
+  - [Project layout](#project-layout)
+- [Privacy](#privacy)
+- [Credits](#credits)
+- [License](#license)
+
 ## Features
 
 - **Desktop lyrics.** The current line floats above your windows and fills in as it's sung. You can change the font, size, colours, glow, shadow and background.
