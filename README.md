@@ -205,6 +205,7 @@ Floating Lyrics sends only the song's title, artist, album and length to LRCLIB 
 
 ## Credits
 
+- Inspired by [LyricsX](https://github.com/ddddxxx/LyricsX) by ddddxxx
 - Lyrics from [LRCLIB](https://lrclib.net)
 - YouTube Music support through the API Server plugin of [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 
